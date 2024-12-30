@@ -1,15 +1,23 @@
 # Little Lemon Booking Website
 
-## Project Description
-This project was created during Meta's Coursera Front-End Development course. This website was the culmuniation of the Front-End Development Track.
+## Project Overview
 
-This website showcased implementing a booking application on the Little Lemon Website. This was created with React Components to show an understanding of utilizing React for creating the website. This also features utilzing API calls.
+Welcome to the **Little Lemon Booking Website**! 🎉 This project was developed as part of **Meta's Coursera Front-End Development course**, specifically as the capstone project for the **Front-End Development Track**. It serves as the culmination of learning how to build dynamic and responsive websites using modern web development tools.
 
-Please note: the only functionality working on this website besides the design is the Reserve a Table function.
+The website is designed to be a **booking application** for the fictional **Little Lemon** restaurant. It showcases how React can be utilized to create a modern, interactive web application. The project highlights the use of **React Components**, **React Router**, and **API calls** to build a seamless user experience.
 
-## Screenshots
-Here are some screeenshots of the application showcasing the Booking functionality.
+### Key Features
+- **Reserve a Table**: The main functionality of this website allows users to reserve a table at the Little Lemon restaurant.
+- **Responsive Design**: The website adapts to various screen sizes, ensuring a smooth experience on mobile, tablet, and desktop devices.
+- **React Components**: The website is built with reusable React components, demonstrating proficiency in modern front-end development practices.
+- **SweetAlert**: For a user-friendly experience, SweetAlert is used to display stylish alert messages, especially when reserving a table.
+- **React Router**: The website uses React Router for smooth navigation between different sections of the app, improving the overall user experience.
 
-![little lemon website table booking](/src/images/github-cover.png)
+### Technologies Used
+- **React**: The core framework used to build the website.
+- **React Router**: For handling dynamic page routing without refreshing the page.
+- **SweetAlert**: To enhance user interactions with stylish alert pop-ups.
+- **API Calls**: Demonstrates integration with external data sources to fetch or send information.
 
-
+### Functionality
+- **Note**: Currently, the **Reserve a Table** function is the only fully functional feature of the website, allowing users to make table reservations. The other features are mainly designed and are still in development.
