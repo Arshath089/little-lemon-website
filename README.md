@@ -6,6 +6,11 @@ Welcome to the **Little Lemon Booking Website**! 🎉 This project was developed
 
 The website is designed to be a **booking application** for the fictional **Little Lemon** restaurant. It showcases how React can be utilized to create a modern, interactive web application. The project highlights the use of **React Components**, **React Router**, and **API calls** to build a seamless user experience.
 
+### Live Website
+Check out the live website hosted on GitHub Pages:  
+[Visit the Little Lemon Booking Website](https://arshath089.github.io/little-lemon-website/)
+
+
 ### Key Features
 - **Reserve a Table**: The main functionality of this website allows users to reserve a table at the Little Lemon restaurant.
 - **Responsive Design**: The website adapts to various screen sizes, ensuring a smooth experience on mobile, tablet, and desktop devices.
